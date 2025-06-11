@@ -6,7 +6,7 @@ This folder is dedicated to storing your YouTube cookies file(s) for the Telegra
 
 🗂️ 𝐖𝐡𝐚𝐭 𝐭𝐨 𝐚𝐝𝐝 𝐡𝐞𝐫𝐞?
 - Add your YouTube cookies as a `.txt` file inside this folder.
-- You can name the file anything you want (e.g., `ShrutiBots.txt`, `cookies.txt`, etc.).
+- You can name the file anything you want (e.g., `RockyBots.txt`, `cookies.txt`, etc.).
 - Just make sure the extension is `.txt`.
 
 🔍 𝐇𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐲𝐨𝐮𝐫 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐂𝐨𝐨𝐤𝐢𝐞𝐬?
@@ -18,7 +18,7 @@ This folder is dedicated to storing your YouTube cookies file(s) for the Telegra
 6️⃣ Paste the cookies into a `.txt` file inside this `cookies` folder.
 
 ❓ 𝐇𝐞𝐥𝐩:
-If you face any difficulties or don’t know how to extract cookies, feel free to DM @WTF_WhyMeeh on Telegram for assistance.
+If you face any difficulties or don’t know how to extract cookies, feel free to DM @MR_ROCKY_TZ on Telegram for assistance.
 
 ✨ 𝐍𝐨𝐭𝐞:
 - Your YouTube cookies are essential for the bot to stream music properly.
@@ -30,7 +30,7 @@ If you face any difficulties or don’t know how to extract cookies, feel free t
                   🔐 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 & 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 🔐
 
 Developed and Maintained by:
-- Telegram: @WTF_WhyMeeh
-- Telegram: @ShrutiBots
+- Telegram: @MR_ROCKY_TZ
+- Telegram: @ROCKY_UPDATE
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
