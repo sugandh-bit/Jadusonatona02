@@ -1,7 +1,7 @@
 {
     "name": "Rocky Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://files.catbox.moe/2oj1vp.webp",
+    "logo": "https://files.catbox.moe/fobxgt.jpg",
     "keywords": [
         "python3",
         "telegram",
@@ -29,7 +29,7 @@
         },
         "MONGO_DB_URI": {
             "description": "Get a mongodb url from https://cloud.mongodb.com.",
-            "value": "mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION",
+            "value": "mongodb+srv://Zunnu:zunnumusicbot@zunnu.tlsdrgr.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "OWNER_ID": {
