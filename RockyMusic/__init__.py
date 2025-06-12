@@ -1,4 +1,4 @@
-from RockyMusic.core.bot import Rocky
+from RockyMusic.core.bot import Aviax
 from RockyMusic.core.dir import dirr
 from RockyMusic.core.git import git
 from RockyMusic.core.userbot import Userbot
