@@ -25,6 +25,8 @@ OWNER_USERNAME = os.getenv("OWNER_USERNAME", "WTF_WhyMeeh")
 
 MONGO_DB_URI = os.getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID", None))
+API_URL = os.getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
+API_KEY = os.getenv("API_KEY", "NxGBNexGenBots343273") # youtube song api key, get it from https://t.me/MR_ROCKY_TZ
 HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
 
