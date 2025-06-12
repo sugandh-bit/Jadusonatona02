@@ -15,19 +15,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NoxxOP/ShrutiMusic/fork"><img src="https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social" alt="GitHub Forks"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/stargazers"><img src="https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=social" alt="GitHub Stars"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/graphs/contributors"><img src="https://img.shields.io/github/contributors/NoxxOP/ShrutiMusic?style=social" alt="GitHub Contributors"></a>
+  <a href="https://github.com/abh628/MrRocky/fork"><img src="https://img.shields.io/github/forks/abh628/MrRocky?style=social" alt="GitHub Forks"></a>
+  <a href="https://github.com/abh628/MrRocky/stargazers"><img src="https://img.shields.io/github/stars/abh628/MrRocky?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/abh628/MrRocky/graphs/contributors"><img src="https://img.shields.io/github/contributors/abh628/MrRocky?style=social" alt="GitHub Contributors"></a>
 </p>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/abh628/MrRocky"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
 </p>
 
 <h2 align="center">🚀 Deploy to Render (Free)</h2>
 
 <p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/NoxxOP/ShrutiMusic">
+  <a href="https://render.com/deploy?repo=https://github.com/abh628/MrRocky">
     <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
   </a>
 </p>
