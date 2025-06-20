@@ -12,7 +12,7 @@ services:
       - key: BOT_TOKEN
         value: ""
       - key: MONGO_DB_URI
-        value: "mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION"
+        value: "mongodb+srv://Zunnu:zunnumusicbot@zunnu.tlsdrgr.mongodb.net/?retryWrites=true&w=majority"
       - key: OWNER_ID
         value: "1786683163"
       - key: OWNER_USERNAME
