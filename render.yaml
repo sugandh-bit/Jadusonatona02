@@ -28,8 +28,8 @@ services:
       - key: LOG_GROUP_ID
         value: "-1002321189618"
       - key: SUPPORT_GROUP
-        value: "https://t.me/ROCKY_SUPPORTB"
+        value: "https://t.me/RockyXSupport"
       - key: SUPPORT_CHANNEL
-        value: "https://t.me/ROCKY_UPDATE"
+        value: "https://t.me/RockyXUpdate"
       - key: COOKIE_URL
         value: "Need , IF You Didn't add Cookies file in cookies folder"
