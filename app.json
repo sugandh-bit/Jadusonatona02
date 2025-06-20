@@ -6,7 +6,7 @@
         "python3",
         "telegram",
         "bot",
-        "ShrutiBots",
+        "RockyBots",
         "MusicBot",
         "telegram-bot",
         "pyrogram"
@@ -69,12 +69,12 @@
         },
         "SUPPORT_GROUP": {
             "description": "Your support group username (without @)",
-            "value": "https://t.me/ROCKY_SUPPORTB",
+            "value": "https://t.me/RockyXSupport",
             "required": false
         },
         "SUPPORT_CHANNEL": {
             "description": "Your support channel username (without @)",
-            "value": "https://t.me/ROCKY_UPDATE",
+            "value": "https://t.me/RockyXUpdate",
             "required": false
         },
         "COOKIE_URL": {
