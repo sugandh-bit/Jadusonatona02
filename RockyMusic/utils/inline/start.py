@@ -11,7 +11,7 @@ def start_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_GROUP),
         ],
         [
-            InlineKeyboardButton(text=_["E_X_1"], url="https://github.com/NoxxOP/ShrutiMusic/fork"),
+            InlineKeyboardButton(text=_["E_X_1"], url="https://t.me/RockyXUpdate"),
             InlineKeyboardButton(text="˹𝐏ʀɪᴠᴀᴄʏ 𝐏ᴏʟɪᴄʏ˼", url="https://graph.org/Privacy-Policy-05-01-30")
         ],
     ]
@@ -26,7 +26,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text=_["E_X_1"], url="https://github.com/NoxxOP/ShrutiMusic/fork"),
+            InlineKeyboardButton(text=_["E_X_1"], url="https://t.me/RockyXUpdate"),
             InlineKeyboardButton(text="˹𝐏ʀɪᴠᴀᴄʏ 𝐏ᴏʟɪᴄʏ˼", url="https://graph.org/Privacy-Policy-05-01-30")
         ],
         [
