@@ -5,7 +5,7 @@ from config import LOG_GROUP_ID
 from RockyMusic import app
 from RockyMusic.utils.database import add_served_chat, get_assistant
 
-welcome_photo = "https://files.catbox.moe/ajobub.jpg"  # Bot added image
+welcome_photo = "https://files.catbox.moe/fobxgt.jpg"  # Bot added image
 
 @app.on_message(filters.new_chat_members, group=-10)
 async def join_watcher(_, message):
