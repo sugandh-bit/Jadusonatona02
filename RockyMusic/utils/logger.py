@@ -17,7 +17,6 @@ async def play_logs(message, streamtype):
 <b>ᴜsᴇʀ ɪᴅ :</b> <code>{message.from_user.id}</code>
 <b>ɴᴀᴍᴇ :</b> {message.from_user.mention}
 <b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{message.from_user.username}
-<b>CHAT MEMBERS :</b> <code>{chat_members}</code>
 
 <b>ǫᴜᴇʀʏ :</b> {message.text.split(None, 1)[1]}
 <b>sᴛʀᴇᴀᴍᴛʏᴘᴇ :</b> {streamtype}"""
