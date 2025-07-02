@@ -69,7 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(text="⌯ 𝐀ᴅᴅ 𝐌є ⌯", url="https://t.me/NikkuXBot?startgroup=true"),
-            InlineKeyboardButton(text="⌯ 𝐎ᴡɴᴇʀ ⌯", url="https://t.me/+18624419123"),
+            InlineKeyboardButton(text="⌯ 𝑶𝒑𝒆𝒏 ⌯", url="https://t.me/+ovV3XB1dLnRmYWRl"),
         ],
     ]
 
