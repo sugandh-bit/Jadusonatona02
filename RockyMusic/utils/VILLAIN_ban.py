@@ -1,5 +1,5 @@
 from pyrogram import filters
-from VILLAIN_MUSIC.utils.admin_check import admin_check
+from RockyMusic.utils.admin_check import admin_check
 
 
 USE_AS_BOT = True
