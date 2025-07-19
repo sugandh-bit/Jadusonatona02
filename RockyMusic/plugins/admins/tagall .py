@@ -1,4 +1,4 @@
-from VILLAIN_MUSIC import app 
+from RockyMusic import app 
 import asyncio
 import random
 from pyrogram import Client, filters
@@ -138,7 +138,7 @@ TAGMES = [ " **𝐇𝐞𝐲 𝐂𝐨𝐨𝐥 𝐀𝐧𝐠𝐞𝐥 𝐊𝐚𝐡�
            " **𝐆𝐨𝐨𝐝 𝐍8 𝐉𝐢 𝐁𝐡𝐮𝐭 𝐑𝐚𝐭 𝐇𝐨 𝐠𝐲𝐢🥰** ",
            ]
 
-@app.on_message(filters.command(["tagall", "spam", "tagmember", "utag", "stag", "hftag", "bstag", "eftag", "tag", "etag", "utag", "atag"], prefixes=["/", "@", "#"]))
+@app.on_message(filters.command(["tagall", "spam", "tagmember", "stag", "hftag", "bstag", "eftag", "tag", "etag", "utag", "atag"], prefixes=["/", "@", "#"]))
 async def mentionall(client, message):
     chat_id = message.chat.id
     if message.chat.type == ChatType.PRIVATE:
