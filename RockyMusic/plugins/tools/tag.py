@@ -1,5 +1,5 @@
 import asyncio
-from AaruXMusix import app
+from RockyMusic import app
 from pyrogram import filters
 
 
