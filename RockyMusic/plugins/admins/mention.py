@@ -1,8 +1,8 @@
 import asyncio
 from pyrogram.enums import ChatType, ChatMemberStatus
-from VILLAIN_MUSIC import app
+from RockyMusic import app
 from pyrogram import filters
-from VILLAIN_MUSIC.utils.VILLAIN_ban import admin_filter
+from RockyMusic.utils.VILLAIN_ban import admin_filter
 
 
 
