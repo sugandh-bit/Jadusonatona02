@@ -1,11 +1,11 @@
 from pyrogram import filters
 from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
-from SaregamaMusic import app
+from RockyMusic import app
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery, Message, User
 from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForbidden, PeerIdInvalid, ChatAdminRequired
 from pyrogram.enums import ChatAction, ChatType, MessageEntityType
 from pyrogram import Client, filters, enums
-from SaregamaMusic.misc import SUDOERS
+from RockyMusic.misc import SUDOERS
 
 buttons = [
     [
