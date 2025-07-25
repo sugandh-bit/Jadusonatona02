@@ -4,17 +4,17 @@ from pyrogram import filters
 from pyrogram.enums import ChatMembersFilter
 from pyrogram.errors import FloodWait
 
-from SaregamaMusic import app
-from SaregamaMusic.misc import SUDOERS
-from SaregamaMusic.utils.database import (
+from RockyMusic import app
+from RockyMusic.misc import SUDOERS
+from RockyMusic.utils.database import (
     get_active_chats,
     get_authuser_names,
     get_client,
     get_served_chats,
     get_served_users,
 )
-from SaregamaMusic.utils.decorators.language import language
-from SaregamaMusic.utils.formatters import alpha_to_int
+from RockyMusic.utils.decorators.language import language
+from RockyMusic.utils.formatters import alpha_to_int
 from config import adminlist
 
 IS_BROADCASTING = False
@@ -184,7 +184,7 @@ async def braodcast_message(client, message, _):
     if "-assistant" in message.text:
         aw = await message.reply_text(_["broad_5"])
         text = _["broad_6"]
-        from RessoMusic.core.userbot import assistants
+        from RockyMusic.core.userbot import assistants
 
         for num in assistants:
             sent = 0
