@@ -45,12 +45,12 @@
 ## 📊 Repository Stats
 
 <p align="center">
-  <a href="https://github.com/NoxxOP/ShrutiMusic"><img src="https://img.shields.io/github/repo-size/NoxxOP/ShrutiMusic?style=flat-square" alt="Repo Size"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/issues"><img src="https://img.shields.io/github/issues/NoxxOP/ShrutiMusic?style=flat-square" alt="Issues"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/network/members"><img src="https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=flat-square" alt="Forks"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/stargazers"><img src="https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=flat-square" alt="Stars"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NoxxOP/ShrutiMusic?style=flat-square" alt="LICENSE"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/commits/main"><img src="https://img.shields.io/github/last-commit/NoxxOP/ShrutiMusic?style=flat-square" alt="Last Commit"></a>
+  <a href="https://github.com/abh628/RockyMusic"><img src="https://img.shields.io/github/repo-size/abh628/RockyMusic?style=flat-square" alt="Repo Size"></a>
+  <a href="https://github.com/abh628/RockyMusic/issues"><img src="https://img.shields.io/github/issues/abh628/RockyMusic?style=flat-square" alt="Issues"></a>
+  <a href="https://github.com/abh628/RockyMusic/network/members"><img src="https://img.shields.io/github/forks/abh628/RockyMusic?style=flat-square" alt="Forks"></a>
+  <a href="https://github.com/abh628/RockyMusic/stargazers"><img src="https://img.shields.io/github/stars/abh628/RockyMusic?style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/abh628/RockyMusic/blob/main/LICENSE"><img src="https://img.shields.io/github/license/abh628/RockyMusic?style=flat-square" alt="LICENSE"></a>
+  <a href="https://github.com/abh628/RockyMusic/commits/main"><img src="https://img.shields.io/github/last-commit/abh628/RockyMusic?style=flat-square" alt="Last Commit"></a>
 </p>
 
 ## 🔥 Essential Commands
@@ -82,8 +82,8 @@ sudo apt-get install python3-pip ffmpeg git -y
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/NoxxOP/ShrutiMusicBot
-cd ShrutiMusicBot
+git clone https://github.com/abh628/MrRocky
+cd MrRocky
 ```
 
 #### Setup Virtual Environment
@@ -122,7 +122,7 @@ There are two ways to start the bot:
 
 1. Using Python directly:
 ```bash
-python3 -m ShrutiMusic
+python3 -m RockyMusic
 ```
 
 2. Using Bash script:
@@ -135,7 +135,7 @@ bash start
 To keep the bot running in background:
 
 ```bash
-screen -S shrutibot
+screen -S MrRocky
 bash start
 ```
 
@@ -143,13 +143,13 @@ To detach the screen, press `Ctrl+A` then `D`
 
 To reattach the screen later:
 ```bash
-screen -r shrutibot
+screen -r MrRocky
 ```
 
 ### ☁️ Heroku Deployment
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/abh628/RockyMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
 </p>
 
 1. Click the button above
@@ -162,42 +162,3 @@ screen -r shrutibot
    - SUDO_USERS (your User ID)
 3. Click "Deploy App"
 4. Once deployed, go to Resources tab and turn on the worker
-
-## 🔄 How to Generate Session String
-
-Use our Session Generator Bot: [@ShrutiSessionBot](https://t.me/ShrutiSessionBot)
-
-1. Start the bot
-2. Send phone number with country code
-3. Enter the OTP
-4. Your session string will be generated
-
-## 🤔 Common Issues & Fixes
-
-- **Bot not responding**: Check if the bot is running and has proper permissions
-- **No sound in VC**: Ensure ffmpeg is properly installed
-- **Can't join voice chat**: Make sure the bot is an admin with voice chat permissions
-- **API Issues**: Double check your API_ID and API_HASH
-
-## 🌟 Credits and Acknowledgements
-
-- [NoxxOP](https://github.com/NoxxOP): Main Developer
-- All contributors who helped make this project better
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For any questions or help, join our [Support Group](https://t.me/ShrutiBotSupport)
-
-<p align="center">
-<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-NoxxOP-red?style=for-the-badge" alt="Made with love">
-</p>
-
----
-
-<p align="center">
-<b>🎵 Enjoy Streaming Music with Shruti Bot! 🎵</b>
-</p>
