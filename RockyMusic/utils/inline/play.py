@@ -68,9 +68,10 @@ def stream_markup_timer(_, chat_id, played, dur):
             )
         ],
         [
-            InlineKeyboardButton(text="⌯ 𝐀ᴅᴅ 𝐌є ⌯", url="https://t.me/NikkuXBot?startgroup=true"),
-            InlineKeyboardButton(text="⌯ 𝑶𝒑𝒆𝒏 ⌯", url="https://t.me/+ovV3XB1dLnRmYWRl"),
+            InlineKeyboardButton(text="˹тєᴧϻ 𝐑𝝾𝗰𝝹𝝲˼", url="https://t.me/RockyXUpdate"),
+            InlineKeyboardButton(text="˹ᴀʟʟ 𝝱𝝾𝞃𝘀˼", url="https://t.me/RockyXSupport"),
         ],
+           [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
 
 # Stream Buttons without Timer
@@ -124,4 +125,5 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
     ]
 
 # Credit
-# Modified with love by Nand Yaduwanshi @WTF_WhyMeeh
+# Modified with love by Mr Rocky @MrRockyTg
+
